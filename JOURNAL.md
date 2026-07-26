@@ -22,7 +22,7 @@ The Issue basically is that the README Scorer Test Scorer Test is Failing due to
 **Issue Reproduction Documentation:**
 After inputting [pytest tests/unit/test_readme_scorer.py -q] in the GitBash Terminal, it returns a Test Result that shows 22 Tests Passed and 1 Test Failed. The Failing Test, [test_readme_with_all_quality_signals], produced the Assertion Error: [assert 51 > 100], which shows the Issue is Reproducible by Confirming the Issue Described in GitHub Issue #156.
 
-**Reproduction commit link:** [link to commit documenting the reproduced issue]
+**Reproduction commit link:** [https://github.com/RaphaelDMCode/pathreview/commit/3ecb95c8ae4565ece97e88db49f10177ec107c39]
 
 **Reproduction summary:** [1–2 sentences: How did you reproduce the issue? What did you observe?]
 
