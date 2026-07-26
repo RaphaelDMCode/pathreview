@@ -24,14 +24,16 @@ After inputting [pytest tests/unit/test_readme_scorer.py -q] in the GitBash Term
 
 **Reproduction commit link:** [link to commit documenting the reproduced issue]
 
-**Reproduction summary:**
-[1–2 sentences: How did you reproduce the issue? What did you observe?]
+**Reproduction summary:** [1–2 sentences: How did you reproduce the issue? What did you observe?]
 
-**PLAN.md link:** [link to PLAN.md in your fork]
+To Reproduce the Issue, I first use the Command [pytest tests/unit/test_readme_scorer.py -q] given in the GitHub Issue Comment, which will then show a Unit Test Fail with 22 Passed, and 1 Failed, with the [assert 51 > 100] Assertion Error. This type of Issue would be labeled as a Documentation Type of Issue, more specifically a Test Issue. The Issue is that the [ReadmeScorer] had correctly counted the [README] Text Fixture that contains only about ~51 Words. This shows that the Scoring Function/Logic itself is not the Problem, but the Unit Test’s Fixture where it fell short to Satisfy the Assertion being made.
 
-**Walkthrough video (recommended):** [link to your Loom video, ≤2 min — recommended, not graded]
+**PLAN.md link:** [https://github.com/RaphaelDMCode/pathreview/blob/fix/156-readme-scorer-fixture/PLAN.md]
+
+**Walkthrough video (recommended):** [<img src='Issue-Reproduce-Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />]
 
 **Blockers or open questions:**
 [Anything you're still uncertain about going into Week 9, or leave blank]
+Currently None
 
 ---
