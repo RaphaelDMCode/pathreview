@@ -27,7 +27,7 @@ The Root Cause of this Issue is that the Sample README used in the [test_readme_
 
 ### Inputs & outputs
 <!-- What does your fix take as input? What should it produce or change? -->
-The Fix Take Input would be the Sample README Data used by [test_readme_with_all_quality_signals] that is used by the Unit Test. It should then Produce A Test Fixture that shows all Tests passed due to the Fixture (or Assertion) Matches the Expected Conditions and such.
+The Fix Take Input would be the Sample README Data used by [test_readme_with_all_quality_signals] that is used by the Unit Test. It should then Produce that the Unit Test passes because the README Fixture matches the expected conditions, allowing the [ReadmeScorer] to be validated correctly.
 
 ### Risks & unknowns
 <!-- What could go wrong? What are you still unsure about? -->
