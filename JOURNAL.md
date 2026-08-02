@@ -44,9 +44,11 @@ Currently None
 
 **Current progress:**
 [What have you implemented so far? Which sub-tasks from PLAN.md are done?]
+Between extending the fixture or correcting the assertion, I decided to extend the README fixture. I first ran [make check] and [make test-unit] to establish a baseline of existing failures, so I could note that my implementation did not create any new failures. I then updated the fixture from 51 words to ~523 words while also preserving all the required quality signals, allowing the test to correctly validate the [ReadmeScorer] comprehensive category. I then run [pytest tests/unit/test_readme_scorer.py -q] to show that all 23 tests passed, and [make check] and [make test-unit] once again and show that my implementation did not create any new failures.
 
 **Next steps:**
 [What are you working on for the rest of the week?]
+Creating my PR Description and Fixing Bits of my Content here and there.
 
 **Blockers:**
 [Anything slowing you down? Or leave blank.]
