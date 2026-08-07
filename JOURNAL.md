@@ -75,3 +75,48 @@ The Fix I implemented fixed the Failing [test_readme_with_all_quality_signals] b
 **Draft PR feedback received from:** [none]
 
 ---
+
+## Week 10 — Iteration & reflection
+
+### Reviewer feedback
+
+**Feedback received:** [ ] Yes  [x] No — still awaiting review
+
+**Summary of feedback:**
+[What did reviewers comment on? Or note that no review came in.]
+None. The Reviewer Feedback is not a Featue in this Summer 2026 AI201 Course.
+
+**How you responded:**
+[What changes did you make, or what did you reply? If no feedback,
+leave blank.]
+None. The Reviewer Feedback is not a Featue in this Summer 2026 AI201 Course.
+
+---
+
+### Reflection
+
+**What was harder than you expected?**
+[Be specific — what part of the process, codebase, or workflow
+surprised you?]
+I would say that setting up the Project was one of the Hardest Parts. I ran into several issues, such as getting the [make] commands to work, fixing up setup errors and such. Starting the Project can sometimes be overwhelming at first, with numerous files, folders and codebase and such. This taught me that preparing the development environment can sometimes be just as challenging as writing the code itself.
+
+**What did you learn about working in a large codebase?**
+[What's different about contributing to someone else's production code
+vs. building your own project?]
+I learned that working on a collaborative production codebase is vastly different from creating my own projects from scratch. There is much more to the development process than just simply staging changes and committing with random messages. I had to follow Branch naming conventions, write meaningful commit messages, work with the workflow, document my steps/planning, doing tests and runs, and submitting a Pull Request. This Project showed me how important understanding, documentation and following a team’s workflow are when contributing to software that other people also maintain and such.
+
+**How did AI tools help — and where did they fall short?**
+[Where was AI assistance most useful this module? Where did you need
+to go beyond what AI could give you?]
+AI tools helped me throughout this Project by explaining parts of the Project I did not fully understand, confirming my understanding of some parts of the project, answering my questions, and most of the time, helping improve my writing/sentences for documents and such. Despite AI’s help, I know that I couldn’t fully rely on AI again and again, so I did some steps of the project myself like understanding the issue, testing and running the error, finding where it went wrong and others.
+
+**What would you do differently if you started over?**
+[Issue selection, planning, implementation, or process — anything
+you'd change?]
+If I have started over, I would try and pick a more higher tier issue. Although this Tier 1 Issue helped me get an experience and knowledge of how the contribution workflow works, I still feel like I still know little and want to test my knowledge here and there, to see how I do well and see where I am currently at.
+
+**What are you most proud of from this module?**
+[One thing — it doesn't have to be the PR itself.]
+I am most proud of experiencing what it feels like to contribute to a real collaborative software project. Following a professional workflow process, from reproducing the issue and planning the solution to implement the fix, testing and running it, and finally submitting a Pull Request.  This helped me experience what it feels like to work in a developed and maintained team environment.
+
+---
